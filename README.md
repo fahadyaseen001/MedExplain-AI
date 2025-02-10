@@ -1,4 +1,6 @@
-# MedExplain AI - Medical Report Assistant 🩺
+<div align="center"> <img src="deepseek-medical.png" alt="DeepSeek Logo" width="80" height="80"> </div>
+
+# MedExplain AI - Medical Report Assistant 
 
 An AI-powered tool that helps users understand medical reports, test results, and clinical documents using natural language processing.
 
