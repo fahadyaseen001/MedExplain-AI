@@ -2,7 +2,9 @@
 
 # MedExplain AI - Medical Report Assistant 
 
-An AI-powered tool that helps users understand medical reports, test results, and clinical documents using natural language processing.
+An AI-powered tool that helps patients understand complex medical reports by providing plain-language explanations and answering questions about their lab results, medical reports, and clinical documents.
+
+.
 
 ## Features
 
