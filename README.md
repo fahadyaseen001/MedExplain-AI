@@ -4,8 +4,6 @@
 
 An AI-powered tool that helps patients understand complex medical reports by providing plain-language explanations and answering questions about their lab results, medical reports, and clinical documents.
 
-.
-
 ## Features
 
 - 📄 Support for multiple document formats (PDF, DOCX, PNG, JPG)
