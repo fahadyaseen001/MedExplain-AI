@@ -21,17 +21,20 @@ An AI-powered tool that helps patients understand complex medical reports by pro
 ## Installation
 
 1. Clone the repository:
+
 ```bash
-git clone https://github.com/yourusername/medexplain-ai.git
-cd medexplain-ai
+git clone https://github.com/fahadyaseen001/MedExplain-AI
+cd MedExplain-AI
 ```
 
 2. Install required packages:
+
 ```bash
 pip install -r requirements.txt
 ```
 
 3. Install Tesseract OCR:
+
 - Windows: Download from [GitHub](https://github.com/UB-Mannheim/tesseract/wiki)
 - Linux: `sudo apt-get install tesseract-ocr`
 - Mac: `brew install tesseract`
@@ -40,6 +43,7 @@ pip install -r requirements.txt
 
 1. Get your API key from [Together AI](https://together.ai)
 2. Run the Streamlit app:
+
 ```bash
 streamlit run app.py
 ```
