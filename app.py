@@ -11,6 +11,8 @@ from pdf2image import convert_from_bytes
 import io
 import base64
 
+pytesseract.pytesseract.tesseract_cmd = '/usr/bin/tesseract'
+
 def get_base64_image(image_path):
     try:
         with open(image_path, "rb") as img_file:
